@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Course\Android programing\Practices\SQLiteDemo1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_4b5a6ed7e9e22e88e5c55e2e8f15ad0f8f4e50c4.jar" />
+    </item>
+    <item
+        jar="D:\Course\Android programing\Practices\SQLiteDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f79aedafe29ce852fa8f86473c9593d00a640288">
+        <dex dex="D:\Course\Android programing\Practices\SQLiteDemo1\app\build\intermediates\pre-dexed\debug\instant-run_e488c9020304c5c8ca46b5490a22d7b1ebafb64a.jar" />
+    </item>
+    <item
+        jar="D:\Course\Android programing\Practices\SQLiteDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="81bd8010f4d0f5197422a4399c65375cba647b58">
+        <dex dex="D:\Course\Android programing\Practices\SQLiteDemo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5704a64a30b252c492216e1cb2f71b6601059983.jar" />
+    </item>
+
+</items>

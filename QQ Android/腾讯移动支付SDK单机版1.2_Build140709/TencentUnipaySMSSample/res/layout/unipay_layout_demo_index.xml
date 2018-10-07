@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ff0"
+    android:orientation="vertical"
+    android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="20dp"
+        android:background="@null"
+        android:text="短信支付体验Sample" />
+
+    <LinearLayout
+        android:id="@+id/llMobile"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal" 
+        android:visibility="gone"
+        >
+
+        <Button
+            android:id="@+id/btnMobileCommon"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="移动老指令" >
+        </Button>
+
+        <Button
+            android:id="@+id/btnMobileHe"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="移动和游戏基地" >
+        </Button>
+
+        <Button
+            android:id="@+id/btnMobileMM"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="移动MM基地" >
+        </Button>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llUnicom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal" 
+            android:visibility="gone"
+        >
+
+        <Button
+            android:id="@+id/btnUniconCommon"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="联通老指令" >
+        </Button>
+
+        <Button
+            android:id="@+id/btnUnicomWo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="联通沃商店基地" >
+        </Button>
+
+        <Button
+            android:id="@+id/btnUnicomKD"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="invisible"
+            android:text="联通沃阅读基地" >
+        </Button>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llTelecom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+            android:visibility="gone"
+         >
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="invisible" >
+        </Button>
+
+        <Button
+            android:id="@+id/btnTelecomCommon"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="电信爱游戏基地" >
+        </Button>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="invisible" >
+        </Button>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llNoSimCoard"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal" 
+            android:visibility="gone"
+        >
+
+        <Button
+            android:id="@+id/btnNoSimCoard"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="无sim卡\n（联网环境下，可通过移动和游戏基地的好友支付）" >
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

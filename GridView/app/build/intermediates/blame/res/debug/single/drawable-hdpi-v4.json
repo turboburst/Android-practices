@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\games_control.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\games_control.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\youtube.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\youtube.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messenger.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\messenger.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\world.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\world.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\speech_balloon.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\speech_balloon.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clock.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\calendar.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weather.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\weather.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ringtone.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\ringtone.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "D:\\Course\\Android programing\\Practices\\GridView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\address_book.png",
+        "source": "D:\\Course\\Android programing\\Practices\\GridView\\app\\src\\main\\res\\drawable-hdpi\\address_book.png"
+    }
+]

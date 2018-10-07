@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ff0"
+    >
+
+
+   
+	<TextView
+	    android:layout_marginTop="20dp"
+		android:background="@null"
+		android:text="短信支付体验Sample" 
+		android:layout_gravity="center_vertical" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"/>
+
+			
+		<Button 
+		android:text="确认" 
+		android:id="@+id/demo_id_buy" 
+		android:layout_width="260dp" 
+		android:layout_height="wrap_content" 
+		android:layout_gravity="center_horizontal" 
+		android:layout_marginTop="5dp"
+		>
+		</Button>
+		
+</LinearLayout>
